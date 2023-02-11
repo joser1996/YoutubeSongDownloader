@@ -1,1 +1,4 @@
 *.pro.user
+DownloadScript/.env
+DownloadScript/.vscode
+DownloadScript/temp/*
